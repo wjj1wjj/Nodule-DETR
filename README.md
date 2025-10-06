@@ -31,7 +31,7 @@ COCODIR/
 ```
 # 📜Run
 ```
-python main.py
+python Nodule-DETR/main.py
 ```
 
 
