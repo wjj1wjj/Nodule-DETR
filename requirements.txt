@@ -1,0 +1,9 @@
+cython
+pycocotools
+submitit
+scipy
+termcolor
+addict
+yapf
+timm
+thop
